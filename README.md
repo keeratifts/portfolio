@@ -4,6 +4,7 @@ immediate contribution. Fast adaptation to new challenge and surrounding.
 
 # Education
 ## Graduate School of Information Science and Engineering, Ritsumeikan University, Japan
+### Department of Mechatornics and Automation Engineering, King Mongkut’s Institute of Technology Ladkrabang, Thailand.
 
 # Previous projects
 The projects I have done
