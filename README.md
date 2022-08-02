@@ -3,7 +3,7 @@ Proﬁcient in Python, C/C++, Linux, Git and robot control software such as ROS.
 immediate contribution. Fast adaptation to new challenge and surrounding.
 
 # Education
-Graduate School of Information Science and Engineering, Ritsumeikan University, Japan
+## Graduate School of Information Science and Engineering, Ritsumeikan University, Japan
 
 # Previous projects
 The projects I have done
