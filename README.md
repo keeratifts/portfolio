@@ -12,3 +12,4 @@ The projects I have done
 * Approaches based on the Control Barrier Function are being considered as potential solutions to the problem of managing intersections. 
 * The goals of these solutions are to ensure safety by reducing the likelihood of collisions and to improve the throughput of the intersection while simultaneously minimizing the amount of time that traffic is delayed.
 
+![cbf_real](https://user-images.githubusercontent.com/76491592/182325222-1177e368-0fde-418d-8f1a-0738ad5685cb.gif)
