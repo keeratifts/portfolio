@@ -1,3 +1,10 @@
+Developer with extensive experience providing in-depth and widely knowledge in engineering, research, result, interpretation and reporting activities.
+Proﬁcient in Python, C/C++, Linux, Git and robot control software such as ROS. With 9 years of experience and education in engineering major to make an
+immediate contribution. Fast adaptation to new challenge and surrounding.
+
+#Education
+Graduate School of Information Science and Engineering, Ritsumeikan University, Japan
+
 # Previous projects
 The projects I have done
 
